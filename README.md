@@ -1,0 +1,2 @@
+# lab02
+create_mimic_of_unit_outline_in_html
